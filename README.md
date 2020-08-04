@@ -25,3 +25,5 @@ Here are the answers I was able to find throughout this project:
 * The objective of Uplift modelling is targetting Treatment Responders (Customers that will purchase only if they receive an offer) and Control Non-Responders (Customers that will not purchase if they don’t receive an offer). On the other hand, we need to avoid targeting Treatment Non-Responders (Customer that won’t purchase in any case) and Control Responders (Customers that will purchase without an offer).
 
 * Thanks to the uplift modelling we were able to calculate the uplift score and select the potential target group with the highest probability of buying with the treatment, which are the users in the 80th percentile. Uplift modelling showed that with the right targeting Discount Revenue Uplift per customer is \$3.21 which is 1.31 better then original Discount campaign. With modelled targeting only one quarter of the target group is contributing to 74% of the revenue uplift. (Discount Conversion Uplift is 33.87%, Discount Order Uplift: 1202.28, Discount Revenue Uplift: $30056.94)
+
+Check Market Response Model & Uplift Modelling.ipynb for more details 
